@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Generate a Python function that receives a list of numbers and returns the average, ignoring null or non-numeric values."
+  },
+  {
+    "task": "Create a JavaScript function that validates whether a string is a valid email address using regular expressions."
+  },
+  {
+    "task": "Write a C# function that receives a date and determines whether it falls on a weekend."
+  }
+]
