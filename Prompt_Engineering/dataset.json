@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "188 cm",
+      "weight": "92 kg",
+      "goal": "Muscle building through strength training with high protein intake",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan covers all meals for one full day (breakfast, lunch, dinner, and snacks)",
+      "Total daily calories support muscle-building goals for an athlete of this size (approximately 3000-3500 calories)",
+      "Protein content is high enough to support muscle growth (minimum 180-200g protein across all meals)",
+      "Meals are practical and concise with clear portions and macronutrient breakdown"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength-training athlete requiring high protein intake and heavy calorie needs for muscle building"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Carbohydrate loading and sustained energy for a 90-minute long run training session with proper pre/during/post-workout nutrition",
+      "restrictions": "Vegetarian, no nuts"
+    },
+    "solution_criteria": [
+      "Meal plan covers one full day with breakfast, lunch, dinner, and snacks strategically timed around the long run",
+      "Emphasizes high-carbohydrate foods (at least 60% of calories) with appropriate timing before, during, and after the 90-minute training session",
+      "All meals and snacks respect the vegetarian and nut-free dietary restrictions",
+      "Plan is compact and concise (under 400 tokens)"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with an endurance runner needing carbohydrate loading and sustained energy release before/during/after a long training session"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "71 kg",
+      "goal": "Maintain weight at 71 kg for lightweight boxing competition while fueling high-intensity training sessions",
+      "restrictions": "No dairy, vegetarian"
+    },
+    "solution_criteria": [
+      "Meal plan totals approximately 2,400-2,600 calories to maintain current weight",
+      "Macros include 140-160g protein, 65-75g fat, and 300-350g carbohydrates to support training",
+      "All meals are vegetarian and dairy-free",
+      "Plan is compact and fits within one day with 3-4 meals/snacks"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a weight-class athlete (boxer, wrestler) needing to meet strict calorie/macro targets while staying within competition weight limits"
+  }
+]
